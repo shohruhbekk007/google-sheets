@@ -1,2 +1,2 @@
-token = "7507813297:AAGemA7m05O00NdlpqkLcQBol34Rrgww5LE"
+token = "7507813297:AAEN6MkNfmiFbSSXkF_s-C5otAjx1QIEkkQ"
 admins = [5502720862,]
